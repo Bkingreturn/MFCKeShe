@@ -42,6 +42,9 @@
     <ClInclude Include="CDrawDialog.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CSetLineDialog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MFCProjectKeShe.cpp">
@@ -63,6 +66,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="CDrawDialog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSetLineDialog.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

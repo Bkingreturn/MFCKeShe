@@ -185,6 +185,7 @@
   <ItemGroup>
     <ClInclude Include="CDrawDialog.h" />
     <ClInclude Include="ChildFrm.h" />
+    <ClInclude Include="CSetLineDialog.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="MFCProjectKeShe.h" />
     <ClInclude Include="MFCProjectKeSheDoc.h" />
@@ -196,6 +197,7 @@
   <ItemGroup>
     <ClCompile Include="CDrawDialog.cpp" />
     <ClCompile Include="ChildFrm.cpp" />
+    <ClCompile Include="CSetLineDialog.cpp" />
     <ClCompile Include="MainFrm.cpp" />
     <ClCompile Include="MFCProjectKeShe.cpp" />
     <ClCompile Include="MFCProjectKeSheDoc.cpp" />
